@@ -1,0 +1,117 @@
+# =========================
+
+# Environment Variables
+
+# =========================
+
+.env
+.env.example
+.env.local
+.env.development
+.env.production
+
+# =========================
+
+# Python
+
+# =========================
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+
+venv/
+.venv/
+env/
+ENV/
+
+# =========================
+
+# SQLite Database
+
+# =========================
+
+*.db
+*.sqlite
+*.sqlite3
+chat.db
+
+# =========================
+
+# Logs
+
+# =========================
+
+*.log
+
+# =========================
+
+# IDE Files
+
+# =========================
+
+# VS Code
+
+.vscode/
+
+# PyCharm
+
+.idea/
+
+# =========================
+
+# Streamlit
+
+# =========================
+
+.streamlit/secrets.toml
+
+# =========================
+
+# Build Files
+
+# =========================
+
+build/
+dist/
+*.egg-info/
+
+# =========================
+
+# OS Files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# Jupyter
+
+# =========================
+
+.ipynb_checkpoints/
+
+# =========================
+
+# Testing
+
+# =========================
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# =========================
+
+# Temporary Files
+
+# =========================
+
+*.tmp
+*.temp
+*.bak
+*.swp
